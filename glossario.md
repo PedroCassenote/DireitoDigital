@@ -60,3 +60,9 @@ Compliance:
 E como a concorrência provoca, mais e mais empresas nacionais viram que vale a pena contratar serviços jurídicos preventivos, visando minimizar e evitar as consequências negativas do descumprimento da legislação.
 
 Como o Direito Digital é uma matéria nova, muitas empresas têm dúvidas sobre quais práticas devem adotar, a fim de evitar problemas com clientes e também órgãos fiscalizadores. É aí que entra em cena a figura do advogado que conhece a legislação e auxilia a empresa na promoção de boas práticas, para evitar problemas no futuro.
+
+Norma:
+
+Regulamentação:
+
+Lei:
