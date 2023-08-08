@@ -49,16 +49,10 @@
   Dentro da área de consultoria também pode entrar o sistema de compliance que empresas podem criar para estar em conformidade com o que estipula a lei.
 
 ## Compliance:
-  Infelizmente, a maioria das empresas brasileiras não possui uma cultura de prevenção de problemas. Todavia, essa realidade vem mudando. Com a chegada das 
-  multinacionais ao país, que já possuíam protocolos de compliance vindos de sedes estrangeiras, muitas filiais passaram a contratar esse tipo de serviço 
-  jurídico.
-
-  Como consequência da concorrência, mais e mais empresas nacionais viram que vale a pena contratar serviços jurídicos preventivos, visando minimizar e evitar as 
-  consequências negativas do descumprimento da legislação.
-
-  Como o Direito Digital é uma matéria nova, muitas empresas têm dúvidas sobre quais práticas devem adotar, a fim de evitar problemas com clientes e também 
-  órgãos fiscalizadores. É aí que entra em cena a figura do advogado que conhece a legislação e auxilia a empresa na promoção de boas práticas, para evitar 
-  problemas no futuro.
+  Este é o departamento responsável por certificar-se constantemente de que a empresa está seguindo todas as leis internas e também as externas, fixadas em documento compartilhado com todos os colaboradores. Isso faz com 
+  que muitos problemas com a lei sejam detectados e prevenidos, evitando desgastes de toda ordem para a empresa.
+  
+  O papel do funcionário de TI é apoiar com ferramentas o setor de compliance e trabalhar para manter os padrões necessários para um andamento seguro das atividades.
 
 ## Processos Criminais:
   Os cibercrimes, por exemplo, são uma resposta natural ao aumento do uso da tecnologia na vida das pessoas. Vírus e malwares, hackeamento de aparelhos 
