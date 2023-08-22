@@ -108,6 +108,13 @@
   A arbitragem é um método de resolução de conflito que possui legislação própria, determinado pela Lei n° 9.307/96, que descreve em seus artigos as disposições gerais sobre a arbitragem, desde a convenção de arbitragem 
   e seus efeitos, dos árbitros e do procedimento arbitral a ser adotado.
 
+## PROCON:
+  O Procon é um órgão público de defesa do consumidor que, entre outras funções, recebe reclamações para mediar soluções de conflitos entre consumidor, empresas e prestadores de serviços de forma extrajudicial.
+
+  Existem unidades do Procon em todos os Estados brasileiros, além de alguns municipais também.
+
+  
+
 
 
 
