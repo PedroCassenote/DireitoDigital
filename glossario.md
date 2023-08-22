@@ -1,4 +1,5 @@
 # GLOSSÁRIO DE PALAVRAS
+  Glossário de palavras utilizadas durante a matéra de Direito Digital, o objetivo desse glossário é armazenar e organizar informações úteis e necessárias.
 
 ## Direito Digital:
   O direito digital é um ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além 
@@ -81,7 +82,7 @@
   No direito, uma lei é um documento escrito editado por uma autoridade competente e de acordo com um procedimento específico, e que veicula normas jurídicas. Em 
   seu sentido amplo, esse termo compreende todos os atos normativos contidos no processo legislativo.
 
-## Direito do Consumidor
+## Direito do Consumidor:
   É o ramo do direito que lida com as relações jurídicas entre fornecedores de bens e serviços e seus consumidores, regulamentado pelo Código de Defesa do Consumidor, ou CDC.
   
   Engloba tanto situações físicas quanto digitais, possuindo diferenças dependendo de como foi efetuada a a compra do produto ou serviço; quando uma compra é realizada fora do estabelecimento comercial, como compras 
