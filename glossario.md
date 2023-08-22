@@ -49,8 +49,8 @@
   Dentro da área de consultoria também pode entrar o sistema de compliance que empresas podem criar para estar em conformidade com o que estipula a lei.
 
 ## Compliance:
-  Este é o departamento responsável por certificar-se constantemente de que a empresa está seguindo todas as leis internas e também as externas, fixadas em documento compartilhado com todos os colaboradores. Isso faz com 
-  que muitos problemas com a lei sejam detectados e prevenidos, evitando desgastes de toda ordem para a empresa.
+  Este é o departamento responsável por certificar-se constantemente de que a empresa está seguindo todas as leis internas e também as externas, fixadas em documento compartilhado com todos os colaboradores. Isso faz 
+  com que muitos problemas com a lei sejam detectados e prevenidos, evitando desgastes de toda ordem para a empresa.
   
   O papel do funcionário de TI é apoiar com ferramentas o setor de compliance e trabalhar para manter os padrões necessários para um andamento seguro das atividades.
 
@@ -80,3 +80,37 @@
 ## Lei:
   No direito, uma lei é um documento escrito editado por uma autoridade competente e de acordo com um procedimento específico, e que veicula normas jurídicas. Em 
   seu sentido amplo, esse termo compreende todos os atos normativos contidos no processo legislativo.
+
+## Direito do Consumidor
+  É o ramo do direito que lida com as relações jurídicas entre fornecedores de bens e serviços e seus consumidores, regulamentado pelo Código de Defesa do Consumidor, ou CDC.
+  
+  Engloba tanto situações físicas quanto digitais, possuindo diferenças dependendo de como foi efetuada a a compra do produto ou serviço; quando uma compra é realizada fora do estabelecimento comercial, como compras 
+  pela internet, ou por meio dos serviços de telemarketing, por exemplo, o consumidor tem direito a desistir da compra efetuada dentro do prazo de 7 dias, prazo concedido pela Lei, então deve sempre ser obedecido pelos
+  empresários.
+  
+  Existem formas de alternativas para resolução de conflitos, devido ao volume potencial de problemas e casos onde o prejuízo ao lesado é pequeno, essas formas alternativas são: a conciliação, a mediação, a negociação e
+  a arbitragem.
+
+### Conciliação:
+  A conciliação é uma técnica autocompositiva que exige a participação de um terceiro imparcial, chamado de conciliador, que usa métodos apropriados, de forma participativa e amigável na busca da solução de um 
+  conflito, ou seja, para que a conciliação seja exitosa, é necessário que haja a conciliação, o acordo entre as partes. 
+
+### Mediação:
+  A mediação é considerada como uma forma consensual de resolução de conflitos, pois trata-se de um processo em que uma terceira pessoa, chamada de mediador, que usa técnicas não propositivas, mas que de alguma forma 
+  facilite o acordo, que deve ser construído pelas partes, interage com elas para com isso, pôr fim a demanda.
+
+### Negociação:
+  A negociação também é considerada como uma das formas alternativas de resolução de conflitos que ganhou espaço na medida em que não possui uma regra específica a ser seguida, simplesmente é a busca por resolver 
+  interesses comuns, de forma rápida e mais barata para as partes porque não depende necessariamente de intervenção de terceiros.
+
+### Arbitragem:
+  A arbitragem é um método de resolução de conflito que possui legislação própria, determinado pela Lei n° 9.307/96, que descreve em seus artigos as disposições gerais sobre a arbitragem, desde a convenção de arbitragem 
+  e seus efeitos, dos árbitros e do procedimento arbitral a ser adotado.
+
+
+
+
+
+
+
+
