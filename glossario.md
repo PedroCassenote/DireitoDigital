@@ -144,5 +144,60 @@
   desiguais, na exata medida de suas desigualdades”.
 
 ## Direito à segurança:
-  O direito à segurança, espécie de direito social, traz para o Estado o dever de implementar políticas públicas de segurança que garantam aos cidadãos o direito de ir, vir e transitar com tranqüilidade nos locais 
+  O direito à segurança, espécie de direito social, traz para o Estado o dever de implementar políticas públicas de segurança que garantam aos cidadãos o direito de ir, vir e transitar com tranquilidade nos locais 
   públicos e, também, assegurem a defesa de sua integridade física e de seu patrimônio.
+
+## Empresas virtuais:
+  Empresa virtual é todo negócio que utiliza a internet para realizar vendas. Essas empresas podem comercializar produtos ou serviços. Sendo assim, a característica principal desse tipo de negócio é realizar todo o processo de venda apenas por meio virtual, sem que o cliente precise se deslocar até um ponto físico.
+
+## FGTS:
+  O Fundo de Garantia de Tempo de Serviço (FGTS), criado com o intuito de proteger os funcionários de uma demissão sem justa causa, é um fundo mantido na Caixa Econômica Federal para manter uma reserva para os trabalhadores.
+
+  Esse depósito ocorre por meio de uma conta em nome do colaborador, vinculada ao empregador, que é alimentada todos os meses com uma porcentagem do salário.
+
+## Startup:
+  A startup termo que representa uma "empresa" emergente e recém-criada ainda em fase de desenvolvimento, que tem como objetivo principal desenvolver ou aprimorar um modelo de negócio, preferencialmente escalável, disruptivo e repetível.
+
+## Modelo de negócio:
+  Um modelo de negócios descreve como uma organização cria, entrega e captura valor, em contextos econômicos, sociais, culturais ou outros. O processo de construção e modificação do modelo de negócios também é chamado de inovação do modelo de negócios e faz parte da estratégia de negócios.
+
+## Assinatura digital: 
+  Uma assinatura digital é uma técnica de verificação de autenticidade e integridade de documentos eletrônicos ou mensagens. Ela é semelhante à assinatura manuscrita em documentos físicos, mas é usada para documentos digitais. A principal finalidade de uma assinatura digital é garantir que o documento ou mensagem não tenha sido alterado desde o momento em que foi assinado e que a pessoa que afirma tê-lo assinado seja realmente a fonte legítima da assinatura.
+
+### Chave Criptográfica Privada: 
+  O signatário possui uma chave criptográfica privada que é mantida em segredo. Essa chave é usada para criar a assinatura digital.
+
+### Chave Criptográfica Pública: 
+  A chave pública é amplamente divulgada e está disponível para qualquer pessoa que queira verificar a assinatura digital. Ela é usada para verificar a autenticidade da assinatura.
+
+### Hash: 
+  Antes de assinar um documento, ele é submetido a um algoritmo de hash, que gera um valor único (hash) baseado no conteúdo do documento. Mesmo uma pequena alteração no documento resultará em um hash completamente diferente.
+
+### Assinatura Digital: 
+  A chave privada é usada para criar uma assinatura digital única, que é anexada ao documento. Essa assinatura é baseada no conteúdo do documento e no hash gerado anteriormente.
+
+### Verificação: 
+  Qualquer pessoa que queira verificar a autenticidade do documento pode usar a chave pública do signatário para verificar a assinatura digital. O documento é novamente submetido ao algoritmo de hash, e a assinatura digital é comparada com o hash recalculado. Se forem iguais, isso indica que o documento não foi alterado e a assinatura é autêntica.
+
+A assinatura digital é amplamente usada em transações eletrônicas, contratos digitais, e-mails seguros e em muitos outros contextos onde a autenticidade e a integridade dos dados são cruciais. Ela oferece uma maneira confiável de garantir que os documentos digitais não tenham sido adulterados e que a identidade do remetente seja verificável.
+
+## Certificação digital:
+  A certificação digital é um componente essencial da infraestrutura de segurança de tecnologia da informação que complementa o conceito de assinatura digital. Ela fornece uma maneira confiável de verificar a autenticidade das chaves públicas usadas nas assinaturas digitais e é usada principalmente para garantir a identidade das partes envolvidas em uma comunicação ou transação digital. Aqui estão os principais elementos da certificação digital:
+
+### Autoridade Certificadora (AC): 
+  A AC é uma entidade confiável que emite certificados digitais para indivíduos, empresas e organizações. Ela desempenha um papel fundamental na criação e manutenção de uma cadeia de confiança. A AC verifica a identidade das partes antes de emitir um certificado digital.
+
+### Certificado Digital: 
+  Um certificado digital é um arquivo eletrônico que contém informações sobre a entidade que possui a chave pública correspondente, como seu nome, endereço de e-mail e a chave pública em si. Ele é emitido pela AC e é assinado digitalmente pela AC para garantir sua autenticidade. O certificado digital é usado para vincular uma identidade a uma chave pública.
+
+### Chave Pública da AC: 
+  A chave pública da AC é usada para verificar a autenticidade dos certificados digitais emitidos por ela. Essa chave pública é amplamente distribuída e confiável por padrão.
+
+### Cadeia de Certificação: 
+  Uma cadeia de certificação é uma hierarquia de certificados digitais que conecta a chave pública da AC raiz à chave pública do titular do certificado. Cada certificado é assinado digitalmente pelo certificado superior na cadeia, até chegar ao certificado da AC raiz. Isso cria uma trilha de confiança que permite que os certificados sejam verificados em cascata.
+
+### Verificação de Certificado: 
+  Quando alguém recebe um documento assinado digitalmente, pode verificar a autenticidade do certificado digital do remetente. Isso envolve a verificação da assinatura digital do certificado e a verificação da integridade da cadeia de certificação até a AC raiz.
+
+  A certificação digital desempenha um papel crucial em vários cenários, como transações financeiras online, assinatura de contratos digitais, envio de e-mails seguros e autenticação em sistemas de TI. Ela ajuda a garantir que as partes envolvidas sejam quem afirmam ser e que as comunicações ou transações digitais sejam seguras e confiáveis. Além disso, é uma parte fundamental da infraestrutura de segurança cibernética em muitos países e setores.
+
