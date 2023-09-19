@@ -164,19 +164,19 @@
 ## Assinatura digital: 
   Uma assinatura digital é uma técnica de verificação de autenticidade e integridade de documentos eletrônicos ou mensagens. Ela é semelhante à assinatura manuscrita em documentos físicos, mas é usada para documentos digitais. A principal finalidade de uma assinatura digital é garantir que o documento ou mensagem não tenha sido alterado desde o momento em que foi assinado e que a pessoa que afirma tê-lo assinado seja realmente a fonte legítima da assinatura.
 
-### Chave Criptográfica Privada: 
+## Chave Criptográfica Privada: 
   O signatário possui uma chave criptográfica privada que é mantida em segredo. Essa chave é usada para criar a assinatura digital.
 
-### Chave Criptográfica Pública: 
+## Chave Criptográfica Pública: 
   A chave pública é amplamente divulgada e está disponível para qualquer pessoa que queira verificar a assinatura digital. Ela é usada para verificar a autenticidade da assinatura.
 
-### Hash: 
+## Hash: 
   Antes de assinar um documento, ele é submetido a um algoritmo de hash, que gera um valor único (hash) baseado no conteúdo do documento. Mesmo uma pequena alteração no documento resultará em um hash completamente diferente.
 
-### Assinatura Digital: 
+## Assinatura Digital: 
   A chave privada é usada para criar uma assinatura digital única, que é anexada ao documento. Essa assinatura é baseada no conteúdo do documento e no hash gerado anteriormente.
 
-### Verificação: 
+## Verificação: 
   Qualquer pessoa que queira verificar a autenticidade do documento pode usar a chave pública do signatário para verificar a assinatura digital. O documento é novamente submetido ao algoritmo de hash, e a assinatura digital é comparada com o hash recalculado. Se forem iguais, isso indica que o documento não foi alterado e a assinatura é autêntica.
 
 A assinatura digital é amplamente usada em transações eletrônicas, contratos digitais, e-mails seguros e em muitos outros contextos onde a autenticidade e a integridade dos dados são cruciais. Ela oferece uma maneira confiável de garantir que os documentos digitais não tenham sido adulterados e que a identidade do remetente seja verificável.
@@ -184,24 +184,24 @@ A assinatura digital é amplamente usada em transações eletrônicas, contratos
 ## Certificação digital:
   A certificação digital é um componente essencial da infraestrutura de segurança de tecnologia da informação que complementa o conceito de assinatura digital. Ela fornece uma maneira confiável de verificar a autenticidade das chaves públicas usadas nas assinaturas digitais e é usada principalmente para garantir a identidade das partes envolvidas em uma comunicação ou transação digital. Aqui estão os principais elementos da certificação digital:
 
-### Autoridade Certificadora (AC): 
+## Autoridade Certificadora (AC): 
   A AC é uma entidade confiável que emite certificados digitais para indivíduos, empresas e organizações. Ela desempenha um papel fundamental na criação e manutenção de uma cadeia de confiança. A AC verifica a identidade das partes antes de emitir um certificado digital.
 
-### Certificado Digital: 
+## Certificado Digital: 
   Um certificado digital é um arquivo eletrônico que contém informações sobre a entidade que possui a chave pública correspondente, como seu nome, endereço de e-mail e a chave pública em si. Ele é emitido pela AC e é assinado digitalmente pela AC para garantir sua autenticidade. O certificado digital é usado para vincular uma identidade a uma chave pública.
 
-### Chave Pública da AC: 
+## Chave Pública da AC: 
   A chave pública da AC é usada para verificar a autenticidade dos certificados digitais emitidos por ela. Essa chave pública é amplamente distribuída e confiável por padrão.
 
-### Cadeia de Certificação: 
+## Cadeia de Certificação: 
   Uma cadeia de certificação é uma hierarquia de certificados digitais que conecta a chave pública da AC raiz à chave pública do titular do certificado. Cada certificado é assinado digitalmente pelo certificado superior na cadeia, até chegar ao certificado da AC raiz. Isso cria uma trilha de confiança que permite que os certificados sejam verificados em cascata.
 
-### Verificação de Certificado: 
+## Verificação de Certificado: 
   Quando alguém recebe um documento assinado digitalmente, pode verificar a autenticidade do certificado digital do remetente. Isso envolve a verificação da assinatura digital do certificado e a verificação da integridade da cadeia de certificação até a AC raiz.
 
   A certificação digital desempenha um papel crucial em vários cenários, como transações financeiras online, assinatura de contratos digitais, envio de e-mails seguros e autenticação em sistemas de TI. Ela ajuda a garantir que as partes envolvidas sejam quem afirmam ser e que as comunicações ou transações digitais sejam seguras e confiáveis. Além disso, é uma parte fundamental da infraestrutura de segurança cibernética em muitos países e setores.
 
-### Outsourcing / Terceirização:
+## Outsourcing / Terceirização:
   Outsourcing é uma prática empresarial em que uma organização contrata serviços ou recursos de terceiros, em vez de realizar essas atividades internamente. Isso geralmente é feito com o objetivo de reduzir custos, aumentar a eficiência, focar em suas competências principais e acessar a experiência especializada que os fornecedores externos podem oferecer. O outsourcing pode abranger uma variedade de áreas e funções dentro de uma organização, incluindo:
 
 Tecnologia da Informação (TI): Empresas frequentemente terceirizam serviços de TI, como gerenciamento de infraestrutura, desenvolvimento de software, suporte técnico e hospedagem de servidores.
@@ -214,7 +214,7 @@ Os benefícios do outsourcing incluem a redução de custos operacionais, o aces
 
 A decisão de terceirizar ou não depende das necessidades e objetivos específicos de uma organização, bem como das circunstâncias econômicas e regulatórias em que ela opera.
 
-### Crimes eletrônicos:
+## Crimes eletrônicos:
   Crimes eletrônicos, também conhecidos como cibercrimes ou crimes digitais, são atividades criminosas que envolvem o uso de tecnologia da informação e comunicação, como computadores, redes, dispositivos móveis e a internet, como meio para cometer infrações legais. Eles abrangem uma ampla gama de atividades ilícitas e podem ser cometidos por indivíduos, grupos ou organizações com o objetivo de ganhar vantagens financeiras, prejudicar outras pessoas, obter informações confidenciais ou causar perturbação.
   Exemplos:
   Hackers que utilizam técnicas avançadas para mascarar sua localização e identidade ao realizar ataques cibernéticos;
@@ -226,7 +226,7 @@ A decisão de terceirizar ou não depende das necessidades e objetivos específi
   Um grupo de hackers direciona uma grande quantidade de tráfego malicioso para o site de uma empresa, tornando-o inoperante;
   Ataques cibernéticos contra sistemas eleitorais para interferir em eleições.
 
-### Legítima Defesa na Internet:
+## Legítima Defesa na Internet:
   A "legítima defesa" na internet refere-se à capacidade de uma pessoa ou entidade de se proteger contra ameaças ou ataques online que visam prejudicá-las de alguma forma. Essa noção não é muito diferente da legítima defesa no mundo físico, onde alguém tem o direito de se defender contra uma ameaça iminente para sua segurança pessoal ou propriedade. No contexto digital, a legítima defesa pode envolver várias ações e medidas para proteger a segurança, privacidade e propriedade online de alguém. Aqui estão alguns exemplos de como a legítima defesa pode ser aplicada na internet:
 
   Firewalls e Segurança da Rede: Utilização de firewalls e outras medidas de segurança para proteger redes e sistemas contra ataques cibernéticos, como tentativas de invasão ou malware.
