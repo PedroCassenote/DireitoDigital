@@ -218,7 +218,9 @@ A decisão de terceirizar ou não depende das necessidades e objetivos específi
   Crimes eletrônicos, também conhecidos como cibercrimes ou crimes digitais, são atividades criminosas que envolvem o uso de tecnologia da informação e comunicação, como computadores, redes, dispositivos móveis e a internet, como meio para cometer infrações legais. Eles abrangem uma ampla gama de atividades ilícitas e podem ser cometidos por indivíduos, grupos ou organizações com o objetivo de ganhar vantagens financeiras, prejudicar outras pessoas, obter informações confidenciais ou causar perturbação.
   
   Exemplos:
+  
   Hackers que utilizam técnicas avançadas para mascarar sua localização e identidade ao realizar ataques cibernéticos.
+  
   Um grupo de criminosos de um país ataca sistemas de empresas em outros países para roubar informações confidenciais.
   
   Ransomware que bloqueia os sistemas de uma empresa e exige um resgate em troca da chave de descriptografia.
