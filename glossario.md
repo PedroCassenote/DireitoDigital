@@ -1,9 +1,8 @@
 # GLOSSÁRIO DE PALAVRAS
-	Glossário de palavras utilizadas durante a matéra de Direito Digital, o objetivo desse glossário é armazenar e organizar informações úteis e necessárias.
+Glossário de palavras utilizadas durante a matéra de Direito Digital, o objetivo desse glossário é armazenar e organizar informações úteis e necessárias.
 
 ## Direito Digital:
-	O direito digital é um ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além 
-  de oferecer proteção de informações contidas nesses espaços e em aparelhos eletrônicos.
+O direito digital é um ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além de oferecer proteção de informações contidas nesses espaços e em aparelhos eletrônicos.
 
 ## Normatizações:
 	Ato de estabelecer padrões ou inserir algo num modelo ou padrão a ser seguido pelos demais.
