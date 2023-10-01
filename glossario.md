@@ -256,4 +256,16 @@ A decisão de terceirizar ou não depende das necessidades e objetivos específi
 
   Em resumo, a legítima defesa na internet envolve tomar medidas para proteger seus interesses online, incluindo sua segurança, privacidade e propriedade digital, de acordo com os princípios legais e éticos.
 
+  ##Licença de Software:
+  É um contrato legal entre o usuário e o detentor dos direitos autorais do software, estabelece limites e condições de uso e de distribuição do software.
+
+  ##Tipos de Software:
+  Existem vários tipos de software, cada um com suas próprias características e condições de uso.
+
+  ###Software Proprietário:
+  Também conhecido como software comercial, o software proprietário é desenvolvido e distribuído por uma empresa ou indivíduo que detém os direitos autorais do software. Os usuários geralmente precisam comprar uma licença para usar o software e estão sujeitos às condições estabelecidas pelo detentor dos direitos autorais.
+
+  ###Software de Domínio Público:
+  Software de domínio público é software que não tem proprietário e está disponível gratuitamente para qualquer pessoa usar, modificar e distribuir. O software de domínio público não está protegido por direitos autorais e pode ser livremente utilizado para qualquer finalidade.
+
 
