@@ -256,9 +256,6 @@ A decisão de terceirizar ou não depende das necessidades e objetivos específi
 
   Em resumo, a legítima defesa na internet envolve tomar medidas para proteger seus interesses online, incluindo sua segurança, privacidade e propriedade digital, de acordo com os princípios legais e éticos.
 
-  ## Licença de Software:
-  É um contrato legal entre o usuário e o detentor dos direitos autorais do software, estabelece limites e condições de uso e de distribuição do software.
-
   ## Tipos de Software:
   Existem vários tipos de software, cada um com suas próprias características e condições de uso.
 
@@ -267,5 +264,42 @@ A decisão de terceirizar ou não depende das necessidades e objetivos específi
 
   ### Software de Domínio Público:
   Software de domínio público é software que não tem proprietário e está disponível gratuitamente para qualquer pessoa usar, modificar e distribuir. O software de domínio público não está protegido por direitos autorais e pode ser livremente utilizado para qualquer finalidade.
+
+  ### Adware:
+  Adware é um tipo de software que exibe anúncios publicitários em um computador, geralmente em forma de pop-ups ou banners, enquanto o software está sendo usado. Este tipo de software é frequentemente gratuito para os usuários, mas gera receita para os desenvolvedores exibindo anúncios.
+
+  ### Freeware:
+  Freeware é software gratuito que está disponível para uso sem custos. O freeware é distribuído gratuitamente, mas os usuários não têm permissão para modificar o software ou acessar seu código-fonte. Exemplos comuns de freeware incluem navegadores da web gratuitos e programas de edição de imagem gratuitos.
+
+  ### Shareware:
+  Shareware é um tipo de software que é distribuído gratuitamente para os usuários, geralmente com funcionalidades limitadas ou um período de avaliação. Os usuários têm a opção de pagar uma taxa para desbloquear recursos adicionais ou continuar usando o software após o período de avaliação.
+
+  ### Software de Código Aberto:
+  Software de código aberto é um tipo de software cujo código-fonte é disponibilizado ao público. Isso significa que qualquer pessoa pode ver, modificar e distribuir o código-fonte do software. O software de código aberto é geralmente distribuído sob uma licença de software de código aberto, como a Licença Pública Geral GNU (GPL) ou a Licença MIT.
+
+  ## Licenças de Software:
+  É um contrato legal entre o usuário e o detentor dos direitos autorais do software, estabelece limites e condições de uso e de distribuição do software.
+
+  ### General Public License(GPL):
+  É uma das licenças de software de código aberto mais conhecidas e amplamente utilizadas, possui as seguintes características:
+  -Liberdade para usar;
+  -Liberdade para estudar;
+  -Liberdade para modificar;
+  -Liberdade para compartilhar;
+  -Copyleft, isso é, qualquer trabalho derivado deve ser distribuído sob os mesmos termos da GPL.
+
+  ### Free Documentation License(FDL):
+  Ela é projetada para ser usada para manuais, livros e outras obras de referência relacionadas ao software. Assim como a GPL, a GNU FDL é uma licença copyleft.
+
+  ### Lesser General Public License(LGPL):
+  É uma licença de software de código aberto que permite que o código licenciado sob ela seja vinculado a programas não livres. Isso significa que um software LGPL pode ser utilizado em programas proprietários sem que o código fonte desses programas proprietários tenha que ser divulgado.
+
+  ### Affero General Public License(AGPL):
+  É uma versão mais forte da GPL projetada para garantir que o código fonte de um aplicativo da web seja disponibilizado para os usuários, mesmo se o aplicativo for modificado e usado apenas internamente em uma organização. Isso ajuda a evitar que empresas usem software baseado na web como serviço sem compartilhar as modificações que fizeram no código fonte.
+
+  ### Licença Livre:
+  É uma licença que concede aos usuários a liberdade de usar, estudar, modificar e distribuir o software. Essas liberdades garantem que os usuários tenham controle sobre o software que estão usando e possam adaptá-lo às suas necessidades.
+  
+  
 
 
