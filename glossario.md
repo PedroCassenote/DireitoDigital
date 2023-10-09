@@ -267,6 +267,11 @@ Ela é projetada para ser usada para manuais, livros e outras obras de referênc
 ### Licença Livre:
 É uma licença que concede aos usuários a liberdade de usar, estudar, modificar e distribuir o software. Essas liberdades garantem que os usuários tenham controle sobre o software que estão usando e possam adaptá-lo às suas necessidades.
   
-  
+## Lei nº 9.609/98:
+Conhecida como Lei do Software, estabelece normas para a proteção dos direitos autorais de programas de computador no Brasil. O criador do software tem direito de controlar sua reprodução, distribuição e uso.
 
+Para que um software seja protegido pela lei, ele deve ser original e estar expresso de forma tangível, ou seja, deve estar codificado em um meio físico ou digital.
 
+Além disso, a Lei do Software estabelece que a proteção aos direitos autorais do software dura 50 anos a partir de 1º de janeiro do ano subsequente ao da sua publicação ou, na ausência desta, da sua criação. Durante esse período, o titular dos direitos autorais tem o direito exclusivo de usar, reproduzir e autorizar a reprodução do software.
+
+Caso haja violação dos direitos autorais do software, o titular dos direitos autorais pode buscar reparação legal contra os infratores, incluindo indenização por danos materiais e morais, além de medidas judiciais para impedir a continuação da violação.
